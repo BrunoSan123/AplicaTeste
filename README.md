@@ -15,7 +15,7 @@
  
 
 
-* Criar um formulário para envio de currículos com os seguintes campos:
+### Criar um formulário para envio de currículos com os seguintes campos:
 -[x] Nome 
 -[x] e-mail 
 -[x] telefone 
