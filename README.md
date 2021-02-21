@@ -4,7 +4,7 @@
 
 ### Feitas com 
 
-<img src="https://surround-bg.com/wp-content/uploads/2018/10/laravel-logo.png"  width="250" height="250"/>
+<img src="https://surround-bg.com/wp-content/uploads/2018/10/laravel-logo.png"  width="250" height="250" align="center"/>
 
  * As aplicações foram feitas usando o framework Laravel
  * Existem dois tipos que aplicações que cobrem as exigências
