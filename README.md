@@ -2,7 +2,7 @@
  
 
 
-### Feitas com ![](https://surround-bg.com/wp-content/uploads/2018/10/laravel-logo.png)
+### Feitas com ![](https://surround-bg.com/wp-content/uploads/2018/10/laravel-logo.png =200x200)
 
  * As aplicações foram feitas usando o framework Laravel
  * Existem dois tipos que aplicações que cobrem as exigências
@@ -38,7 +38,7 @@
     - [x] Um e-mail deve ser enviado com os dados do formulário
 
 
-    *obs da aplicação:
+* obs da aplicação:
 
     > o banco de dados usado foi o mysql, mas pode ser mudado no arquivo .env,dai é só executar as migrations já contidas no projeto
 
