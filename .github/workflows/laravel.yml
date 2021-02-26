@@ -6,11 +6,9 @@ on:
 jobs:
   laravel-tests:
 
-    name: Test in Laravel ${{matrix.os}}
-    runs-on: ${{matrix.os}}
-    strategy:
-      matrix:
-        os: [ubuntu-18.04,windows-2019,macOs-10.15]
+  
+    runs-on: ubuntu-latest
+  
 
     steps:
     - uses: shivammathur/setup-php@b7d1d9c9a92d8d8463ce36d7f60da34d461724f8
