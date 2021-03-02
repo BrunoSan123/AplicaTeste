@@ -9,6 +9,7 @@ services:
     environment:
       MYSQL_PASSWORD: root
       MYSQL_USER: bruno
+      MYSQL_DATABASE: formuser
     ports:
       - 3306:3306
 
